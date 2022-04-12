@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/posts HTTP/1.1
+
+###
+POST http://localhost:5000/api/login HTTP/1.1
+
+###
+POST http://localhost:5000/api/posts HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxLCJ1c2VybmFtZSI6ImpvaG4iLCJlbWFpbCI6ImpvaG5AbWFpbC5jb20ifSwiaWF0IjoxNjQ5NzI1MjA1LCJleHAiOjE2NDk3MjUyMzV9.ixUaUK4hEyWXjlSkBCEPX3oOR8SBTwF8sae4slB9yF0
